@@ -9,3 +9,7 @@
 .palm-button.selected {
 	-webkit-border-image: url('../images/button-down.png') 0;
 }
+
+.palm-body-text {
+	font-size: 3em;
+}
