@@ -1,0 +1,11 @@
+/* Put Application specific CSS here. */
+
+.palm-button {
+  height: 232px;
+	margin: 0;
+	-webkit-border-image: url('../images/button-up.png') 0;
+}
+
+.palm-button.selected {
+	-webkit-border-image: url('../images/button-down.png') 0;
+}

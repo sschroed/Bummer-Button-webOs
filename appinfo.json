@@ -1,0 +1,9 @@
+{
+	"id": "com.recursiveawesomellc.bummerbutton",
+	"version": "1.0.0",
+	"vendor": "Recursive Awesome, LLC",
+	"type": "web",
+	"main": "index.html",
+	"title": "Bummer Button",
+	"icon": "icon.png"
+}
